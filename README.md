@@ -1,2 +1,2 @@
 # Finals-Conflict-Checker-CSE201-
-My Project for CSE201 at Miami University
+This java program takes in a csv file provided by the Miami University registrar and then displays an interface that allows the user to view the predicted final exam schedule and identify potential conflicts. Conflicts are identified when two classes have the same final exam, but meet at non-overlapping times, thus making it possible for a student to be in both classes. This project was made for CSE201 at Miami University.
